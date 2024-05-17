@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -6,6 +8,12 @@
 
 body {
     background: linear-gradient( #039745, #682206);
+}
+
+h1 {
+    font-size: small;
+    font-family: "Press Start 2P", cursive;
+    color: rgba(0, 0, 0, 0.322);
 }
 
 .game-board {
