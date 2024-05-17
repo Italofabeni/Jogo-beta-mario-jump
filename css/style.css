@@ -4,12 +4,14 @@
     box-sizing: border-box;
 }
 
-
+body {
+    background: linear-gradient( #039745, #682206);
+}
 
 .game-board {
     width: 100%;
     height: 500px;
-    border-bottom: 15px solid #03af51;
+    border-bottom: 15px solid #039745;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
