@@ -28,7 +28,7 @@
     }
 
     .pipe {
-        width: 50px;
+        width: 60px;
         animation: pipe-animation 1.3s infinite linear;
     }
 
